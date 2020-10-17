@@ -48,10 +48,8 @@ export default function TableList() {
       <GridItem xs={12} sm={12} md={12}>
         <Card>
           <CardHeader color="info">
-            <h4 className={classes.cardTitleWhite}>Simple Table</h4>
-            <p className={classes.cardCategoryWhite}>
-              Here is a subtitle for this table
-            </p>
+            <h4 className={classes.cardTitleWhite}>Table 1</h4>
+            <p className={classes.cardCategoryWhite}>Subtitle</p>
           </CardHeader>
           <CardBody>
             <Table
@@ -70,14 +68,10 @@ export default function TableList() {
         </Card>
       </GridItem>
       <GridItem xs={12} sm={12} md={12}>
-        <Card plain>
-          <CardHeader plain color="info">
-            <h4 className={classes.cardTitleWhite}>
-              Table on Plain Background
-            </h4>
-            <p className={classes.cardCategoryWhite}>
-              Here is a subtitle for this table
-            </p>
+        <Card>
+          <CardHeader color="info">
+            <h4 className={classes.cardTitleWhite}>Table 2</h4>
+            <p className={classes.cardCategoryWhite}>Subtitle</p>
           </CardHeader>
           <CardBody>
             <Table
