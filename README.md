@@ -124,8 +124,6 @@ material-dashboard-react
     │   │   └── CustomInput.js
     │   ├── CustomTabs
     │   │   └── CustomTabs.js
-    │   ├── FixedPlugin
-    │   │   └── FixedPlugin.js
     │   ├── Footer
     │   │   └── Footer.js
     │   ├── Grid
