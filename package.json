@@ -1,6 +1,6 @@
 {
-  "name": "material-dashboard-react",
-  "version": "1.9.0",
+  "name": "sample-dashboard",
+  "version": "0.0.1",
   "description": "Material Dashboard React. Coded by Creative Tim",
   "private": false,
   "main": "dist/index.js",
@@ -31,23 +31,8 @@
     "build-package-css": "cp src/assets/css/material-dashboard-react.css dist/material-dashboard-react.css",
     "build-package": "npm run build-package-css && babel src --out-dir dist"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/creativetimofficial/material-dashboard-react.git"
-  },
   "keywords": [],
-  "author": "Creative Tim <hello@creative-tim.com> (https://www.creative-tim.com/)",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/creativetimofficial/material-dashboard-react/issues"
-  },
-  "homepage": "https://creativetimofficial.github.io/material-dashboard-react/#/dashboard",
-  "optionalDependencies": {
-    "@types/googlemaps": "3.39.6",
-    "@types/markerclustererplus": "2.1.33",
-    "ajv": "6.12.2",
-    "typescript": "3.9.3"
-  },
   "devDependencies": {
     "eslint-config-prettier": "6.11.0",
     "eslint-plugin-prettier": "3.1.3",
