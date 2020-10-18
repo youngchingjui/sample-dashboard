@@ -77,7 +77,6 @@ material-dashboard-react
 ├── ISSUE_TEMPLATE.md
 ├── LICENSE.md
 ├── README.md
-├── gulpfile.js
 ├── jsconfig.json
 ├── package.json
 ├── documentation
